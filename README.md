@@ -37,6 +37,7 @@ So, I created a MoodBar that shows 5 columns representing 5 main tastes and the 
 
 - **Tech stack:** Flutter
 - **Repository:** https://github.com/sujan6539/the_real_recipe
+- **YouTube Timelapse:** https://www.youtube.com/watch?v=Rchnd7fm7X8
 
 ### Project 3: Custom Navigation Bar
 
