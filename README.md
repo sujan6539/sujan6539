@@ -8,10 +8,10 @@ I'm a passionate Android developer and a Flutter enthusiast! Flutter has capture
 
 ## Tech Stack 💻
 
-- **Languages:** Kotlin, Dart, Java, Python
-- **Front-end:** Native Android, Flutter
+- **Languages:** Kotlin, Dart, Java, Python, Javascript
+- **Front-end:** Native Android, Flutter, ReactJs
 - **Back-end:** Node.js, Firebase
-- **Databases:** SQLite, MySQL
+- **Databases:** SQLite, MySQL, MongoDB
 - **DevOps:** IBM UrbanCode Deploy, AWS 
 - **Version Control:** Git, GitHub
 
